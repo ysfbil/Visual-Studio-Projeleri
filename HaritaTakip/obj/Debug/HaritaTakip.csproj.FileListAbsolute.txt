@@ -1,0 +1,10 @@
+D:\Belgelerim\Visual Studio 2019\Projects\HaritaTakip\bin\Debug\HaritaTakip.exe.config
+D:\Belgelerim\Visual Studio 2019\Projects\HaritaTakip\bin\Debug\HaritaTakip.exe
+D:\Belgelerim\Visual Studio 2019\Projects\HaritaTakip\bin\Debug\HaritaTakip.pdb
+D:\Belgelerim\Visual Studio 2019\Projects\HaritaTakip\obj\Debug\HaritaTakip.csproj.AssemblyReference.cache
+D:\Belgelerim\Visual Studio 2019\Projects\HaritaTakip\obj\Debug\HaritaTakip.Form1.resources
+D:\Belgelerim\Visual Studio 2019\Projects\HaritaTakip\obj\Debug\HaritaTakip.Properties.Resources.resources
+D:\Belgelerim\Visual Studio 2019\Projects\HaritaTakip\obj\Debug\HaritaTakip.csproj.GenerateResource.cache
+D:\Belgelerim\Visual Studio 2019\Projects\HaritaTakip\obj\Debug\HaritaTakip.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Visual Studio 2019\Projects\HaritaTakip\obj\Debug\HaritaTakip.exe
+D:\Belgelerim\Visual Studio 2019\Projects\HaritaTakip\obj\Debug\HaritaTakip.pdb

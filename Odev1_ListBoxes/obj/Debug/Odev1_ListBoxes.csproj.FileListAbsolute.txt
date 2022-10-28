@@ -1,0 +1,31 @@
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Kodlar\Odev1_ListBoxes\bin\Debug\Odev1_ListBoxes.exe.config
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Kodlar\Odev1_ListBoxes\bin\Debug\Odev1_ListBoxes.exe
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Kodlar\Odev1_ListBoxes\bin\Debug\Odev1_ListBoxes.pdb
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Kodlar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.csproj.AssemblyReference.cache
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Kodlar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.Form1.resources
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Kodlar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.Properties.Resources.resources
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Kodlar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.csproj.GenerateResource.cache
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Kodlar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.csproj.CoreCompileInputs.cache
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Kodlar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.exe
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Kodlar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.pdb
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Uygulamalar\Odev1_ListBoxes\bin\Debug\Odev1_ListBoxes.exe.config
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Uygulamalar\Odev1_ListBoxes\bin\Debug\Odev1_ListBoxes.exe
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Uygulamalar\Odev1_ListBoxes\bin\Debug\Odev1_ListBoxes.pdb
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Uygulamalar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.csproj.AssemblyReference.cache
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Uygulamalar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.Form1.resources
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Uygulamalar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.Properties.Resources.resources
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Uygulamalar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.csproj.GenerateResource.cache
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Uygulamalar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.csproj.CoreCompileInputs.cache
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Uygulamalar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.exe
+D:\Belgelerim\BilgisayarMuh\Algoritma2\Uygulamalar\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\bin\Debug\Odev1_ListBoxes.exe.config
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\bin\Debug\Odev1_ListBoxes.exe
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\bin\Debug\Odev1_ListBoxes.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.csproj.SuggestedBindingRedirects.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.Form1.resources
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.Properties.Resources.resources
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.csproj.GenerateResource.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.exe
+F:\Belgelerim\KODLARIM\Visual Studio\Odev1_ListBoxes\obj\Debug\Odev1_ListBoxes.pdb

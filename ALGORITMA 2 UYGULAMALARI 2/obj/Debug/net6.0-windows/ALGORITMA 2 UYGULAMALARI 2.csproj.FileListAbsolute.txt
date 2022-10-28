@@ -1,0 +1,21 @@
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\bin\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.exe
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\bin\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.deps.json
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\bin\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.runtimeconfig.json
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\bin\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.dll
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\bin\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA_2_UYGULAMALARI_2.Form1.resources
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.csproj.GenerateResource.cache
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.AssemblyInfoInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.AssemblyInfo.cs
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.dll
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\refint\ALGORITMA 2 UYGULAMALARI 2.dll
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA 2 UYGULAMALARI 2.genruntimeconfig.cache
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ref\ALGORITMA 2 UYGULAMALARI 2.dll
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA_2_UYGULAMALARI_2.Form2.resources
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA_2_UYGULAMALARI_2.Form3.resources
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA_2_UYGULAMALARI_2.Form4.resources
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 2\obj\Debug\net6.0-windows\ALGORITMA_2_UYGULAMALARI_2.Form5.resources

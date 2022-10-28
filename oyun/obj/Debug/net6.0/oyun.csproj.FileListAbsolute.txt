@@ -1,0 +1,15 @@
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\bin\Debug\net6.0\oyun.exe
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\bin\Debug\net6.0\oyun.deps.json
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\bin\Debug\net6.0\oyun.runtimeconfig.json
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\bin\Debug\net6.0\oyun.dll
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\bin\Debug\net6.0\oyun.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\obj\Debug\net6.0\oyun.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\obj\Debug\net6.0\oyun.GeneratedMSBuildEditorConfig.editorconfig
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\obj\Debug\net6.0\oyun.AssemblyInfoInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\obj\Debug\net6.0\oyun.AssemblyInfo.cs
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\obj\Debug\net6.0\oyun.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\obj\Debug\net6.0\oyun.dll
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\obj\Debug\net6.0\refint\oyun.dll
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\obj\Debug\net6.0\oyun.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\obj\Debug\net6.0\oyun.genruntimeconfig.cache
+F:\Belgelerim\KODLARIM\Visual Studio\oyun\obj\Debug\net6.0\ref\oyun.dll

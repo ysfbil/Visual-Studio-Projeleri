@@ -1,0 +1,17 @@
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\bin\Debug\net6.0-windows\YaziylaSoyle.exe
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\bin\Debug\net6.0-windows\YaziylaSoyle.deps.json
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\bin\Debug\net6.0-windows\YaziylaSoyle.runtimeconfig.json
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\bin\Debug\net6.0-windows\YaziylaSoyle.dll
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\bin\Debug\net6.0-windows\YaziylaSoyle.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\YaziylaSoyle.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\YaziylaSoyle.Form1.resources
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\YaziylaSoyle.csproj.GenerateResource.cache
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\YaziylaSoyle.GeneratedMSBuildEditorConfig.editorconfig
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\YaziylaSoyle.AssemblyInfoInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\YaziylaSoyle.AssemblyInfo.cs
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\YaziylaSoyle.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\YaziylaSoyle.dll
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\refint\YaziylaSoyle.dll
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\YaziylaSoyle.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\YaziylaSoyle.genruntimeconfig.cache
+F:\Belgelerim\KODLARIM\Visual Studio\YaziylaSoyle\YaziylaSoyle\obj\Debug\net6.0-windows\ref\YaziylaSoyle.dll

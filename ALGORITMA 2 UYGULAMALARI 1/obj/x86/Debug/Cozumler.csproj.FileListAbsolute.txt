@@ -1,0 +1,12 @@
+C:\Users\ysfbi\source\repos\Cozumler\bin\x86\Debug\VT.accdb
+C:\Users\ysfbi\source\repos\Cozumler\bin\x86\Debug\deneme.txt
+C:\Users\ysfbi\source\repos\Cozumler\bin\x86\Debug\Cozumler.exe.config
+C:\Users\ysfbi\source\repos\Cozumler\bin\x86\Debug\Cozumler.exe
+C:\Users\ysfbi\source\repos\Cozumler\bin\x86\Debug\Cozumler.pdb
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Debug\Cozumler.Form1.resources
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Debug\Cozumler.Properties.Resources.resources
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Debug\Cozumler.csproj.GenerateResource.cache
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Debug\Cozumler.csproj.CoreCompileInputs.cache
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Debug\Cozumler.exe
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Debug\Cozumler.pdb
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Debug\Cozumler.csproj.AssemblyReference.cache

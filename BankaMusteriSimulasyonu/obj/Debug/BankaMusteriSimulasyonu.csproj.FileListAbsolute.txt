@@ -1,0 +1,10 @@
+C:\Users\ysfbi\source\repos\BankaMusteriSimulasyonu\bin\Debug\BankaMusteriSimulasyonu.exe.config
+C:\Users\ysfbi\source\repos\BankaMusteriSimulasyonu\bin\Debug\BankaMusteriSimulasyonu.exe
+C:\Users\ysfbi\source\repos\BankaMusteriSimulasyonu\bin\Debug\BankaMusteriSimulasyonu.pdb
+C:\Users\ysfbi\source\repos\BankaMusteriSimulasyonu\obj\Debug\BankaMusteriSimulasyonu.csproj.AssemblyReference.cache
+C:\Users\ysfbi\source\repos\BankaMusteriSimulasyonu\obj\Debug\BankaMusteriSimulasyonu.Form1.resources
+C:\Users\ysfbi\source\repos\BankaMusteriSimulasyonu\obj\Debug\BankaMusteriSimulasyonu.Properties.Resources.resources
+C:\Users\ysfbi\source\repos\BankaMusteriSimulasyonu\obj\Debug\BankaMusteriSimulasyonu.csproj.GenerateResource.cache
+C:\Users\ysfbi\source\repos\BankaMusteriSimulasyonu\obj\Debug\BankaMusteriSimulasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ysfbi\source\repos\BankaMusteriSimulasyonu\obj\Debug\BankaMusteriSimulasyonu.exe
+C:\Users\ysfbi\source\repos\BankaMusteriSimulasyonu\obj\Debug\BankaMusteriSimulasyonu.pdb

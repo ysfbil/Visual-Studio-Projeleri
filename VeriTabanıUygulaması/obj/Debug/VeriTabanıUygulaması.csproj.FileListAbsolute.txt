@@ -1,0 +1,71 @@
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\VeriTabanıUygulaması.exe.config
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\VeriTabanıUygulaması.exe
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\VeriTabanıUygulaması.pdb
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Buffers.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Memory.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Buffers.xml
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Memory.xml
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.csproj.AssemblyReference.cache
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.Form1.resources
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.Properties.Resources.resources
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.csproj.GenerateResource.cache
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.csproj.CopyComplete
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.exe
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.pdb
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\EntityFramework.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Data.SQLite.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\EntityFramework.xml
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\System.Data.SQLite.xml
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ysfbi\source\repos\VeriTabanıUygulaması\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\VeriTabanıUygulaması.exe.config
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\VeriTabanıUygulaması.exe
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\VeriTabanıUygulaması.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\EntityFramework.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\EntityFramework.SqlServer.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\SQLitePCLRaw.core.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Buffers.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Data.SQLite.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Memory.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Numerics.Vectors.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\EntityFramework.xml
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\EntityFramework.SqlServer.xml
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Buffers.xml
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Data.SQLite.xml
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Memory.xml
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Numerics.Vectors.xml
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.csproj.SuggestedBindingRedirects.cache
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.Form1.resources
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.Properties.Resources.resources
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.csproj.GenerateResource.cache
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.csproj.CopyComplete
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.exe
+F:\Belgelerim\KODLARIM\Visual Studio\VeriTabanıUygulaması\obj\Debug\VeriTabanıUygulaması.pdb

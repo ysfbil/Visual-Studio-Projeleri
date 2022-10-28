@@ -1,0 +1,43 @@
+C:\Users\Yılmaz KAYA\Desktop\vt\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Yılmaz KAYA\Desktop\vt\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Yılmaz KAYA\Desktop\vt\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yılmaz KAYA\Desktop\vt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Yılmaz KAYA\Desktop\vt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Yılmaz KAYA\Desktop\vt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Yılmaz KAYA\Desktop\vt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Yılmaz KAYA\Desktop\vt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Yılmaz KAYA\Desktop\vt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Yılmaz KAYA\Desktop\vt\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ysfbi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ysfbi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ysfbi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ysfbi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ysfbi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ysfbi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ysfbi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ysfbi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ysfbi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ysfbi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ysfbi\source\repos\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Belgelerim\KODLARIM\Visual Studio\OleDBVeriTabani\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

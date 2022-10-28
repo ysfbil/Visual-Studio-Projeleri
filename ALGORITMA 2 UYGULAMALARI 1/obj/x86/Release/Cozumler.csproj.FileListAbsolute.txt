@@ -1,0 +1,11 @@
+C:\Users\ysfbi\source\repos\Cozumler\bin\x86\Release\VT.accdb
+C:\Users\ysfbi\source\repos\Cozumler\bin\x86\Release\deneme.txt
+C:\Users\ysfbi\source\repos\Cozumler\bin\x86\Release\Cozumler.exe.config
+C:\Users\ysfbi\source\repos\Cozumler\bin\x86\Release\Cozumler.exe
+C:\Users\ysfbi\source\repos\Cozumler\bin\x86\Release\Cozumler.pdb
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Release\Cozumler.Form1.resources
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Release\Cozumler.Properties.Resources.resources
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Release\Cozumler.csproj.GenerateResource.cache
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Release\Cozumler.csproj.CoreCompileInputs.cache
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Release\Cozumler.exe
+C:\Users\ysfbi\source\repos\Cozumler\obj\x86\Release\Cozumler.pdb

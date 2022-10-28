@@ -1,0 +1,21 @@
+C:\Users\ysfbi\source\repos\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+C:\Users\ysfbi\source\repos\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+C:\Users\ysfbi\source\repos\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+C:\Users\ysfbi\source\repos\Koleksiyonlar\obj\Debug\Koleksiyonlar.Form1.resources
+C:\Users\ysfbi\source\repos\Koleksiyonlar\obj\Debug\Koleksiyonlar.Properties.Resources.resources
+C:\Users\ysfbi\source\repos\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.GenerateResource.cache
+C:\Users\ysfbi\source\repos\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ysfbi\source\repos\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+C:\Users\ysfbi\source\repos\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb
+C:\Users\ysfbi\source\repos\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.SuggestedBindingRedirects.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\obj\Debug\Koleksiyonlar.Form1.resources
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\obj\Debug\Koleksiyonlar.Properties.Resources.resources
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.GenerateResource.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+F:\Belgelerim\KODLARIM\Visual Studio\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb

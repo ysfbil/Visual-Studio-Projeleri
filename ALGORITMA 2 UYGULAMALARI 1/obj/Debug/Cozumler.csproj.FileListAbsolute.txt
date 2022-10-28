@@ -1,0 +1,38 @@
+C:\Users\ysfbi\source\repos\Cozumler\bin\Debug\Cozumler.exe.config
+C:\Users\ysfbi\source\repos\Cozumler\bin\Debug\Cozumler.exe
+C:\Users\ysfbi\source\repos\Cozumler\bin\Debug\Cozumler.pdb
+C:\Users\ysfbi\source\repos\Cozumler\obj\Debug\Cozumler.csproj.AssemblyReference.cache
+C:\Users\ysfbi\source\repos\Cozumler\obj\Debug\Cozumler.Form1.resources
+C:\Users\ysfbi\source\repos\Cozumler\obj\Debug\Cozumler.Properties.Resources.resources
+C:\Users\ysfbi\source\repos\Cozumler\obj\Debug\Cozumler.csproj.GenerateResource.cache
+C:\Users\ysfbi\source\repos\Cozumler\obj\Debug\Cozumler.csproj.CoreCompileInputs.cache
+C:\Users\ysfbi\source\repos\Cozumler\obj\Debug\Cozumler.exe
+C:\Users\ysfbi\source\repos\Cozumler\obj\Debug\Cozumler.pdb
+C:\Users\ysfbi\source\repos\Cozumler\bin\Debug\deneme.txt
+C:\Users\ysfbi\source\repos\Cozumler\bin\Debug\VT.accdb
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\bin\Debug\VT.accdb
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\bin\Debug\deneme.txt
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\bin\Debug\Cozumler.exe.config
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\bin\Debug\Cozumler.exe
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\bin\Debug\Cozumler.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\obj\Debug\Cozumler.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\obj\Debug\Cozumler.csproj.SuggestedBindingRedirects.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\obj\Debug\Cozumler.Form1.resources
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\obj\Debug\Cozumler.Properties.Resources.resources
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\obj\Debug\Cozumler.csproj.GenerateResource.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\obj\Debug\Cozumler.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\obj\Debug\Cozumler.exe
+F:\Belgelerim\KODLARIM\Visual Studio\Cozumler\obj\Debug\Cozumler.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\bin\Debug\VT.accdb
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\bin\Debug\deneme.txt
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\bin\Debug\Cozumler.exe.config
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\bin\Debug\Cozumler.exe
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\bin\Debug\Cozumler.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\obj\Debug\Cozumler.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\obj\Debug\Cozumler.csproj.SuggestedBindingRedirects.cache
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\obj\Debug\Cozumler.Form1.resources
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\obj\Debug\Cozumler.Properties.Resources.resources
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\obj\Debug\Cozumler.csproj.GenerateResource.cache
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\obj\Debug\Cozumler.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\obj\Debug\Cozumler.exe
+F:\Belgelerim\KODLARIM\Visual Studio\ALGORITMA 2 UYGULAMALARI 1\obj\Debug\Cozumler.pdb

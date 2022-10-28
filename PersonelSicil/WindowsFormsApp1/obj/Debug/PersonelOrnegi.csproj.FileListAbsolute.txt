@@ -1,0 +1,23 @@
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\PersonelOrnek.exe.config
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\PersonelOrnek.exe
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\PersonelOrnek.pdb
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\PersonelOrnegi.csproj.AssemblyReference.cache
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\PersonelOrnek.Properties.Resources.resources
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\PersonelOrnegi.csproj.GenerateResource.cache
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\PersonelOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\PersonelOrnek.exe
+C:\Users\ysfbi\source\repos\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\PersonelOrnek.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\bin\Debug\PersonelOrnek.exe.config
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\bin\Debug\PersonelOrnek.exe
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\bin\Debug\PersonelOrnek.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\obj\Debug\PersonelOrnegi.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\obj\Debug\PersonelOrnegi.csproj.SuggestedBindingRedirects.cache
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\obj\Debug\PersonelOrnek.Properties.Resources.resources
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\obj\Debug\PersonelOrnegi.csproj.GenerateResource.cache
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\obj\Debug\PersonelOrnegi.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\obj\Debug\PersonelOrnek.exe
+F:\Belgelerim\KODLARIM\Visual Studio\PersonelSicil\WindowsFormsApp1\obj\Debug\PersonelOrnek.pdb

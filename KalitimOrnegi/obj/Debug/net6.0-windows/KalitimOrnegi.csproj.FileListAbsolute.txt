@@ -1,0 +1,17 @@
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\bin\Debug\net6.0-windows\KalitimOrnegi.exe
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\bin\Debug\net6.0-windows\KalitimOrnegi.deps.json
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\bin\Debug\net6.0-windows\KalitimOrnegi.runtimeconfig.json
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\bin\Debug\net6.0-windows\KalitimOrnegi.dll
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\bin\Debug\net6.0-windows\KalitimOrnegi.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\KalitimOrnegi.csproj.AssemblyReference.cache
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\KalitimOrnegi.Form1.resources
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\KalitimOrnegi.csproj.GenerateResource.cache
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\KalitimOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\KalitimOrnegi.AssemblyInfoInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\KalitimOrnegi.AssemblyInfo.cs
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\KalitimOrnegi.csproj.CoreCompileInputs.cache
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\KalitimOrnegi.dll
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\refint\KalitimOrnegi.dll
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\KalitimOrnegi.pdb
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\KalitimOrnegi.genruntimeconfig.cache
+F:\Belgelerim\KODLARIM\Visual Studio\KalitimOrnegi\obj\Debug\net6.0-windows\ref\KalitimOrnegi.dll
